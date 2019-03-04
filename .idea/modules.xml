@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pyy_base/pyy_base.iml" filepath="$PROJECT_DIR$/pyy_base/pyy_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyy_common/pyy_common.iml" filepath="$PROJECT_DIR$/pyy_common/pyy_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyy_parent.iml" filepath="$PROJECT_DIR$/pyy_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyy_recruit/pyy_recruit.iml" filepath="$PROJECT_DIR$/pyy_recruit/pyy_recruit.iml" />
+    </modules>
+  </component>
+</project>
