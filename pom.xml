@@ -8,6 +8,11 @@
 		<module>pyy_common</module>
 		<module>pyy_base</module>
         <module>pyy_recruit</module>
+        <module>pyy_qa</module>
+		<module>pyy_article</module>
+		<module>pyy_friend</module>
+        <module>pyy_gathering</module>
+        <module>pyy_user</module>
     </modules>
 
 	<parent>

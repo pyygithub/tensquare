@@ -6,7 +6,11 @@ import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 
 import java.util.List;
 
-public interface EnterpriseDao extends JpaRepository<Enterprise, String>, JpaSpecificationExecutor<Enterprise> {
-
-    List<Enterprise> findByIshot(String ishot); // where ishot = ?
+/**
+ * 数据访问接口
+ * @author Administrator
+ *
+ */
+public interface EnterpriseDao extends JpaRepository<Enterprise,String>,JpaSpecificationExecutor<Enterprise>{
+	List<Enterprise> findByIshot(String ishot);
 }

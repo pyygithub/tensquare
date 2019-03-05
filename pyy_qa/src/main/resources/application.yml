@@ -1,11 +1,11 @@
 server:
-  port: 9002
+  port: 9003
 spring:
   application:
-    name: pyy-recruit #指定服务名称
+    name: pyy-qa #指定服务名称
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.3.28:3306/tensquare_recruit?characterEncoding=utf-8
+    url: jdbc:mysql://192.168.3.111:3306/tensquare_qa?characterEncoding=utf-8
     username: root
     password: 123456
   jpa:
